@@ -1,0 +1,74 @@
+NORMAL
+Tempo parado em ordem
+
+Ponto 1 Chegada prevista: 	Dia: 1 > 05:45:01	Tempo parado: 	41.0
+Ponto 2 Chegada prevista: 	Dia: 1 > 08:17:29	Tempo parado: 	11.0
+Ponto 3 Chegada prevista: 	Dia: 1 > 09:02:13	Tempo parado: 	36.0
+Ponto 4 Chegada prevista: 	Dia: 1 > 10:15:25	Tempo parado: 	16.0
+Ponto 5 Chegada prevista: 	Dia: 1 > 11:33:42	Tempo parado: 	10.0
+Ponto 6 Chegada prevista: 	Dia: 1 > 12:27:36	Tempo parado: 	15.0
+Ponto 7 Chegada prevista: 	Dia: 1 > 13:12:20	Tempo parado: 	14.0
+Ponto 8 Chegada prevista: 	Dia: 1 > 13:48:56	Tempo parado: 	20.0
+Ponto 9 Chegada prevista: 	Dia: 1 > 14:23:30	Tempo parado: 	20.0
+
+Horário de saída: 	dia 1		 05:45:00
+Horário de chegada: 	dia 1 		 14:56:03
+Tempo total de espera: 			 03:18:15
+Tempo total de ociosidade: 		 00:00:00
+Tempo total da viagem: 			 09:11:03
+Tempo de sobreamento: 			 04:14:55
+Tempo em áreas indevidas: 		 00:00:00
+
+Distancia percorrida com sobreamento: 	 213 km
+
+Velocidade média:   49km
+Velocidade máxima:  89 km
+
+Distancia total pecorrida: 280,08 km
+
+Link 1: https://www.google.com/maps/dir/-27.0710663,+-52.6429911/-27.0702344,-52.643614772763556/-26.93539209770424,+-52.797892191464456/-26.832293051947865,-53.0115268820379/-26.88518164539257,+-53.17465287147597/-26.8910113,-53.1716115/-26.7894295,+-53.2946653/-26.681093,-53.31809/-26.7670972,+-53.5001047/-26.8268782,-53.5028633/-26.617772,+-53.6732385/
+
+Link 2: https://www.google.com/maps/dir/-26.617772,+-53.6732385/-26.7171861,-53.5164088/-26.6005169,+-53.5217133/-26.5188717,-53.5164115/-26.45280235,+-53.502517946600946/
+
+Link completo: https://www.google.com/maps/dir/-27.0710663,+-52.6429911/-27.0702344,-52.643614772763556/-26.93539209770424,+-52.797892191464456/-26.832293051947865,-53.0115268820379/-26.88518164539257,+-53.17465287147597/-26.8910113,-53.1716115/-26.7894295,+-53.2946653/-26.681093,-53.31809/-26.7670972,+-53.5001047/-26.8268782,-53.5028633/-26.617772,+-53.6732385/-26.7171861,-53.5164088/-26.6005169,+-53.5217133/-26.5188717,-53.5164115/-26.45280235,+-53.502517946600946/
+
+Tempo total do simulador:   09:11:03
+Tempo total de simulação :  0,879 minutos
+
+*******************************************************************************
+
+Tempo parado em ordem
+
+Ponto 1 Chegada prevista: 	Dia: 1 > 05:45:00	Tempo parado: 	41.0
+Ponto 2 Chegada prevista: 	Dia: 1 > 06:29:43	Tempo parado: 	11.0
+Ponto 3 Chegada prevista: 	Dia: 1 > 08:40:52	Tempo parado: 	41.0
+Ponto 4 Chegada prevista: 	Dia: 1 > 11:26:35	Tempo parado: 	5.0
+Ponto 5 Chegada prevista: 	Dia: 1 > 14:21:27	Tempo parado: 	13.0
+Ponto 6 Chegada prevista: 	Dia: 1 > 15:47:52	Tempo parado: 	5.0
+Ponto 7 Chegada prevista: 	Dia: 1 > 16:31:35	Tempo parado: 	15.0
+Ponto 8 Chegada prevista: 	Dia: 1 > 17:21:24	Tempo parado: 	20.0
+Ponto 9 Chegada prevista: 	Dia: 1 > 18:04:06	Tempo parado: 	14.0
+
+Horário de saída: 	dia 1		 05:45:00
+Horário de chegada: 	dia 1 		 18:26:28
+Tempo total de espera: 			 02:43:41
+Tempo total de ociosidade: 		 00:00:00
+Tempo total da viagem: 			 12:40:28
+Tempo de sobreamento: 			 04:53:10
+Tempo em áreas indevidas: 		 00:00:00
+
+Distancia percorrida com sobreamento: 	 346 km
+
+Velocidade média:   48km
+Velocidade máxima:  89 km
+
+Distancia total pecorrida: 472,50 km
+
+Link 1: https://www.google.com/maps/dir/-27.0710663,+-52.6429911/-27.0702344,-52.643614772763556/-27.084244353291727,+-52.8482943561678/-27.085146372470945,-53.0620340349961/-27.072918375142287,+-53.147237398533214/-26.8910113,-53.1716115/-27.070399702680337,+-53.17591050061175/-26.7894295,-53.2946653/-27.066433143511286,+-53.17400386792588/-26.681093,-53.31809/-26.736647651408365,+-53.50353673507463/
+
+Link 2: https://www.google.com/maps/dir/-26.736647651408365,+-53.50353673507463/-26.8268782,-53.5028633/-26.735095691324602,+-53.505921733432956/-26.617772,-53.6732385/-26.716201761874377,+-53.51691724074316/-26.7171861,-53.5164088/-26.60600605597896,+-53.516936091938625/-26.6005169,-53.5217133/-26.5969822,+-53.5140269/-26.45280235,-53.502517946600946/
+
+Link completo: https://www.google.com/maps/dir/-27.0710663,+-52.6429911/-27.0702344,-52.643614772763556/-27.084244353291727,+-52.8482943561678/-27.085146372470945,-53.0620340349961/-27.072918375142287,+-53.147237398533214/-26.8910113,-53.1716115/-27.070399702680337,+-53.17591050061175/-26.7894295,-53.2946653/-27.066433143511286,+-53.17400386792588/-26.681093,-53.31809/-26.736647651408365,+-53.50353673507463/-26.8268782,-53.5028633/-26.735095691324602,+-53.505921733432956/-26.617772,-53.6732385/-26.716201761874377,+-53.51691724074316/-26.7171861,-53.5164088/-26.60600605597896,+-53.516936091938625/-26.6005169,-53.5217133/-26.5969822,+-53.5140269/-26.45280235,-53.502517946600946/
+
+Tempo total do simulador:   964:03:59
+Tempo total de simulação :  68,548 minutos

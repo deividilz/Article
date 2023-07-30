@@ -1,0 +1,59 @@
+Tempo parado em ordem
+
+Ponto 1 Chegada prevista: 	Dia: 1 > 09:38:05	Tempo parado: 	45.0
+Ponto 2 Chegada prevista: 	Dia: 1 > 11:01:26	Tempo parado: 	26.0
+Ponto 3 Chegada prevista: 	Dia: 1 > 12:03:26	Tempo parado: 	22.0
+Ponto 4 Chegada prevista: 	Dia: 1 > 12:48:11	Tempo parado: 	11.0
+Ponto 5 Chegada prevista: 	Dia: 1 > 13:10:32	Tempo parado: 	15.0
+
+Horário de saída: 	dia 1		 09:34:00
+Horário de chegada: 	dia 1 		 14:41:02
+Tempo total de espera: 			 02:08:06
+Tempo total de ociosidade: 		 00:00:00
+Tempo total da viagem: 			 05:07:02
+Tempo de sobreamento: 			 03:11:17
+Tempo em áreas indevidas: 		 00:00:00
+
+Distancia percorrida com sobreamento: 	    117 km
+
+Velocidade média:   46km
+Velocidade máxima:  88 km
+
+Distancia total pecorrida: 134,76 km
+Link 1: https://www.google.com/maps/dir/-26.4534105,+-53.5288239/-26.4644319,-53.5051809/-26.6648286,+-53.5189786/-26.6316735,-53.3520447/-26.6510993,+-53.2777872/-26.6343013,-53.2999139/-26.4534105,+-53.5288239/
+
+Link completo: https://www.google.com/maps/dir/-26.4534105,+-53.5288239/-26.4644319,-53.5051809/-26.6648286,+-53.5189786/-26.6316735,-53.3520447/-26.6510993,+-53.2777872/-26.6343013,-53.2999139/-26.4534105,+-53.5288239/
+
+Tempo total do simulador:   05:07:02
+Tempo total de simulação :  0,888 minutos
+
+*******************************************************************************
+
+Tempo parado em ordem
+
+Ponto 1 Chegada prevista: 	Dia: 1 > 09:34:00	Tempo parado: 	39.0
+Ponto 2 Chegada prevista: 	Dia: 1 > 10:21:46	Tempo parado: 	26.0
+Ponto 3 Chegada prevista: 	Dia: 1 > 11:22:46	Tempo parado: 	20.0
+Ponto 4 Chegada prevista: 	Dia: 1 > 12:26:49	Tempo parado: 	15.0
+Ponto 5 Chegada prevista: 	Dia: 1 > 13:50:12	Tempo parado: 	8.0
+
+Horário de saída: 	dia 1		 09:34:00
+Horário de chegada: 	dia 1 		 15:14:34
+Tempo total de espera: 			 01:46:45
+Tempo total de ociosidade: 		 00:00:00
+Tempo total da viagem: 			 05:39:34
+Tempo de sobreamento: 			 03:33:33
+Tempo em áreas indevidas: 		 00:00:00
+
+Distancia percorrida com sobreamento: 	    117 km
+
+Velocidade média:   36km
+Velocidade máxima:  88 km
+
+Distancia total pecorrida: 134,85 km
+Link 1: https://www.google.com/maps/dir/-26.4534105,+-53.5288239/-26.454118192484703,-53.5231489885971/-26.4644319,+-53.5051809/-26.58638020078544,-53.51856542223039/-26.6648286,+-53.5189786/-26.64569749348918,-53.453552054072404/-26.6316735,+-53.3520447/-26.6510993,-53.2777872/-26.4534105,+-53.5288239/
+
+Link completo: https://www.google.com/maps/dir/-26.4534105,+-53.5288239/-26.454118192484703,-53.5231489885971/-26.4644319,+-53.5051809/-26.58638020078544,-53.51856542223039/-26.6648286,+-53.5189786/-26.64569749348918,-53.453552054072404/-26.6316735,+-53.3520447/-26.6510993,-53.2777872/-26.4534105,+-53.5288239/
+
+Tempo total do simulador:   441:34:14
+Tempo total de simulação :  60,220 minutos
