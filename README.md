@@ -2,21 +2,21 @@
 
 !PR-BR
 
-Modelo desenvolvido no Anylogic, utilizando a linguagem de programação JAVA, disponbilizada dentro da ferramenta, onde partes de código podem ser construídas para manipular comportamentos que possam influênciar em decisões, otimizar ganhos, análise de resultados, entre outros. 
+Modelo desenvolvido para simulação multi fatores baseado em propriedades.
 
-A pasta de "Simulations" contém os testes obtidos após as simulações realizadas dentro do modelo, onde podem ser analisadas e tratadas.
-A pasta "Codes" contém os blocos de códigos desenvolvidos em .java para definir o comportamento do modelo.
+Módulos de código de controle do comportamento de cada propriedade desenvolvido em JAVA e integrados na máquina de simulação do Anylogic. Os módulos de código podem ser construídos para manipular comportamentos que podem influenciar em decisões, otimizar ganhos, análise de resultados, entre outros.
 
+A pasta de "Simulations" contém os resultados dos testes obtidos após as simulações realizadas com o exercício do modelo para rotas originais sem propriedades ativas, e para rotas com propriedades de roteirização e rastreamento ativas para evitar áreas indevidas. A pasta "Codes" contém os blocos de códigos implementados em JAVA que definem o comportamento das propriedades no modelo.
 
 Trablho de Conclusão de Curso (TCC) apresentado e aprovado na Universidade Federal da Fronteira Sul - UFFS, Chapecó/SC. 
 
 
 !EN
 
-Model developed in Anylogic, using the JAVA programming language, available within the tool, where parts of code can be built to manipulate behaviors that can influence decisions, optimize gains, analyze results, among others.
+Model developed for multi-factor simulation based on properties.
 
-The "Simulations" folder contains the tests obtained after the simulations carried out within the model, where they can be conducted and treated.
-The "Codes" folder contains the code blocks presented in .java to define the behavior of the model.
+Code modules to control the behavior of each property developed in JAVA and integrated into the Anylogic simulation machine. Code modules can be built to manipulate behaviors that can influence decisions, optimize gains, analyze results, among others.
 
+The "Simulations" folder contains the results of the tests obtained after the simulations carried out with the exercise of the model for original routes without active properties, and for routes with active routing and tracking properties to avoid undue areas. The "Codes" folder contains the code blocks implemented in JAVA that define the behavior of the properties in the model.
 
 Course Completion Work (TCC) presented and approved at the Federal University of Fronteira Sul - UFFS, Chapecó/SC.
